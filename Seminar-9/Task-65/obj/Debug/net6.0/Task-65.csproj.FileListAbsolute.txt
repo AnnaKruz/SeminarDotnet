@@ -1,0 +1,15 @@
+C:\Users\Kruzhevnikova\Desktop\GeekBrains\Языки программирования\Seminar\Seminar-9\Task-65\obj\Debug\net6.0\Task-65.csproj.AssemblyReference.cache
+C:\Users\Kruzhevnikova\Desktop\GeekBrains\Языки программирования\Seminar\Seminar-9\Task-65\obj\Debug\net6.0\Task-65.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kruzhevnikova\Desktop\GeekBrains\Языки программирования\Seminar\Seminar-9\Task-65\obj\Debug\net6.0\Task-65.AssemblyInfoInputs.cache
+C:\Users\Kruzhevnikova\Desktop\GeekBrains\Языки программирования\Seminar\Seminar-9\Task-65\obj\Debug\net6.0\Task-65.AssemblyInfo.cs
+C:\Users\Kruzhevnikova\Desktop\GeekBrains\Языки программирования\Seminar\Seminar-9\Task-65\obj\Debug\net6.0\Task-65.csproj.CoreCompileInputs.cache
+C:\Users\Kruzhevnikova\Desktop\GeekBrains\Языки программирования\Seminar\Seminar-9\Task-65\bin\Debug\net6.0\Task-65.exe
+C:\Users\Kruzhevnikova\Desktop\GeekBrains\Языки программирования\Seminar\Seminar-9\Task-65\bin\Debug\net6.0\Task-65.deps.json
+C:\Users\Kruzhevnikova\Desktop\GeekBrains\Языки программирования\Seminar\Seminar-9\Task-65\bin\Debug\net6.0\Task-65.runtimeconfig.json
+C:\Users\Kruzhevnikova\Desktop\GeekBrains\Языки программирования\Seminar\Seminar-9\Task-65\bin\Debug\net6.0\Task-65.dll
+C:\Users\Kruzhevnikova\Desktop\GeekBrains\Языки программирования\Seminar\Seminar-9\Task-65\bin\Debug\net6.0\Task-65.pdb
+C:\Users\Kruzhevnikova\Desktop\GeekBrains\Языки программирования\Seminar\Seminar-9\Task-65\obj\Debug\net6.0\Task-65.dll
+C:\Users\Kruzhevnikova\Desktop\GeekBrains\Языки программирования\Seminar\Seminar-9\Task-65\obj\Debug\net6.0\refint\Task-65.dll
+C:\Users\Kruzhevnikova\Desktop\GeekBrains\Языки программирования\Seminar\Seminar-9\Task-65\obj\Debug\net6.0\Task-65.pdb
+C:\Users\Kruzhevnikova\Desktop\GeekBrains\Языки программирования\Seminar\Seminar-9\Task-65\obj\Debug\net6.0\Task-65.genruntimeconfig.cache
+C:\Users\Kruzhevnikova\Desktop\GeekBrains\Языки программирования\Seminar\Seminar-9\Task-65\obj\Debug\net6.0\ref\Task-65.dll
